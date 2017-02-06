@@ -1,0 +1,7 @@
+{
+  "name": "Python Flask API",
+  "description": "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor labore et dolore magna aliqua.",
+  "image": "heroku/python",
+  "repository": "https://github.com/LUGM/Flask-Backend",
+  "keywords": ["python", "flask" ]
+}
